@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Secuenciales_ Hechizo 1"/>
+	<classpathentry kind="src" path="Secuenciales_ Hechizo 10"/>
+	<classpathentry kind="src" path="Secuenciales_ Hechizo 2"/>
+	<classpathentry kind="src" path="Secuenciales_ Hechizo 3"/>
+	<classpathentry kind="src" path="Secuenciales_ Hechizo 4"/>
+	<classpathentry kind="src" path="Secuenciales_ Hechizo 5"/>
+	<classpathentry kind="src" path="Secuenciales_ Hechizo 6"/>
+	<classpathentry kind="src" path="Secuenciales_ Hechizo 7"/>
+	<classpathentry kind="src" path="Secuenciales_ Hechizo 8"/>
+	<classpathentry kind="src" path="Secuenciales_ Hechizo 9"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
