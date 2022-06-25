@@ -1,3 +1,4 @@
+//Kennet Rodriguez
 //Un alumno desea saber cuál será su calificación final en la materia de Programación. Dicha calificación se compone de tres exámenes parciales.
 import java.util.Scanner;
 public class NotaFinal {

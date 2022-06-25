@@ -1,3 +1,4 @@
+//Kennet Rodriguez
 //Dada una cantidad de monedas, obtener la equivalencia en dólares, asumiendo que la unidad cambiaria es un dato desconocido.
 import java.util.Scanner;
 public class CambioMoneda {

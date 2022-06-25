@@ -1,3 +1,4 @@
+//Kennet Rodriguez
 //Elevar un número a una potencia dada
 import java.util.Scanner;
 public class Potencia {

@@ -1,3 +1,5 @@
+//Kennet Rodriguez
+//Un vendedor recibe un sueldo más un 10% extra por cada comisión de sus 3 ventas, el vendedor desea saber cuánto dinero obtendrá por concepto de su sueldo base más comisiones.
 import java.util.Scanner;
 public class Ventas {
     public static void main(String[] args) {

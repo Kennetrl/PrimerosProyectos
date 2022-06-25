@@ -1,3 +1,4 @@
+//Kennet Rodriguez
 //Calcular el área de un cuadrado, triángulo y círculo.
 import java.util.Scanner;
 public class AreaFiguras {

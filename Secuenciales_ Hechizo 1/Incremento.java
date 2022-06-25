@@ -1,3 +1,4 @@
+//Kennet Rodriguez
 //Calcular el nuevo salario de un obrero si obtuvo un incremento del porcentajeIncremento% sobre su salario anterior
 import java.util.Scanner;
 public class Incremento {

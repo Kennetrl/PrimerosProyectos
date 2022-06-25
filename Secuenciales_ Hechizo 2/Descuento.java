@@ -1,3 +1,4 @@
+//Kennet Rodriguez
 //Una tienda ofrece un descuento del porcentajeDescuento% sobre el total de la compra y un cliente desea saber cuánto deberá pagar finalmente por su compra.
 import java.util.Scanner;
 public class Descuento {

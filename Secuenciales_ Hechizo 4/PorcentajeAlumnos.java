@@ -1,3 +1,4 @@
+//Kennet Rodriguez
 //Un maestro desea saber qué porcentaje de hombres y que porcentaje de mujeres hay en un grupo de estudiantes.
 import java.util.Scanner;
 public class PorcentajeAlumnos {

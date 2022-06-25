@@ -1,3 +1,4 @@
+//Kennet Rodriguez
 //Calcular el peso dado en kilos de una persona en gramos, libras y toneladas.
 import java.util.Scanner;
 public class Peso {
